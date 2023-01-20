@@ -1,3 +1,6 @@
+//Write a sample program that uses variables, functions, loops and control flow to solve a simple problem (e.g. calculating the factorial of a number or calculate the compound Interest).
+
+
 //PROBLEM
 //Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 //You may not use the same element twice.
