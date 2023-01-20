@@ -1,4 +1,5 @@
-//Write a sample program that uses variables, functions, loops and control flow to solve a simple problem (e.g. calculating the factorial of a number or calculate the compound Interest).
+//Write a sample program that uses variables, functions, loops and control flow to solve a simple problem 
+//(e.g. calculating the factorial of a number or calculate the compound Interest).
 
 
 //PROBLEM
