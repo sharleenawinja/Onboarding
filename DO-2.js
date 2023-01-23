@@ -9,11 +9,12 @@
 //Given nums = [2, 7, 11, 15], target = 9,
 //Because nums[0] + nums[1] = 2 + 7 = 9,
 //return [0, 1].
+'use strict';
 
 function twoSum(nums, target) {
-    let length = nums.length;
-    for(i = 0; i < nums.length; i++) {
-        let diff = target - nums[i];
+    const length = nums.length;
+    for(let i = 0; i < nums.length; i++) {
+        const diff = target - nums[i];
 
         let diffIndex = nums.indexOf(diff);
         if(diffIndex !== -1 && diffIndex !== i) {
