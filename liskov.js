@@ -14,10 +14,7 @@ class Duck extends Bird {
 }
 
 class Penguin extends Bird {
-    fly() {
-        //override fly
-        throw new Error('Cannot fly');
-    }
+    
     swim() {
         console.log('I can swim');
     }
@@ -29,6 +26,7 @@ function makeBirdFly(bird) {
 
 const duck = new Duck();
 const penguin = new Penguin();
+penguin.fly();
 
 makeBirdFly(duck);
 //makeBirdFly(penguin);
