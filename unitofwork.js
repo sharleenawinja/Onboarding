@@ -68,5 +68,3 @@ marks.recordPoor('math');
 marks.recordAverage();
 marks.recordExcellent('geography');
 marks.addToFile()
-
-//74789262-0
